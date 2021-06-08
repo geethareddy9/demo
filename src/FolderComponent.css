@@ -1,0 +1,8 @@
+.folder-wrapper {
+    flex-basis: 10%;
+}
+.hover-folder {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid blue;
+}

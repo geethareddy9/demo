@@ -1,0 +1,8 @@
+.outlook-wrapper {
+    display: flex;
+    min-height: 800px;
+}
+
+.outlook-wrapper div.outlook {
+    border: 2px solid blue;
+}
