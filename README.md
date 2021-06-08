@@ -1,3 +1,10 @@
+# Youtube sessions:
+1) https://youtu.be/xLPbr650WjY
+2) https://youtu.be/AwsSDPM-BVE
+3) https://youtu.be/lDPdw2ht4tg
+4) https://youtu.be/__EdDK7YDdU
+5) https://youtu.be/RD4bnZbXYTc
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
